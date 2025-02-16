@@ -38,8 +38,9 @@ Pandas (for data manipulation)
 Mlxtend (for Apriori algorithm and association rules)
 Usage
 
-**Results & Insights**
+**Results & Insights**   
+   
 The extracted association rules help businesses:
-   ->Optimize inventory management.
-   ->Create bundle offers based on frequently purchased items.
-   ->Improve product placement strategies.
+      ->Optimize inventory management.
+      ->Create bundle offers based on frequently purchased items.
+      ->Improve product placement strategies.
