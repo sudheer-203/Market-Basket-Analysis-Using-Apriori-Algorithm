@@ -40,5 +40,4 @@ Usage
 
 **Results & Insights**   
    
-The extracted association rules help businesses: **1.Optimize inventory management.** , **Create bundle offers based on frequently purchased items.** , **Improve product placement strategies.
-**
+The extracted association rules help businesses: **1.Optimize inventory management.** , **Create bundle offers based on frequently purchased items.** , **Improve product placement strategies.**
